@@ -1,0 +1,21 @@
+ 
+ 
+const numeroInserito = parseInt(prompt('inserisci un numero'))
+console.log(numeroInserito)
+
+
+
+
+let  numeridispari = numeroInserito % 2
+console.log(numeridispari)
+
+
+let numeriInseritiArrw = []
+console.log(numeriInseritiArrw)
+ 
+
+if (numeroInserito === numeroInserito) {
+    numeroInserito.push(numeriInseritiArrw)
+ }
+
+
